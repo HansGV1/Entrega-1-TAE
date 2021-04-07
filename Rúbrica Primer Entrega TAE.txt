@@ -1,0 +1,12 @@
+Integrantes del equipo:
+
+Laura Daniela Hoyos Peña, Jean Paul Yepes Guarnizo, Hans Guillermo García Vargas, Juan Camilo Pulgarin Carmona
+
+En el presente documento se encuentra la referencia de los archivos para el trabajo: Primera Entrega Técnicas de Aprendizaje
+Estadístico
+
+--> Link de la aplicación (Shinny Apps): https://jeanpaulyps.shinyapps.io/PrediccionHijos/
+--> Link en GitHub: https://github.com/HansGV1/Entrega-1-TAE , https://github.com/JeanPaulYps/Proyectos-TAE
+--> RPubs: https://rpubs.com/hansgui/750817
+--> Link del video en Youtube: https://www.youtube.com/watch?v=5Sy2MnOKb-Q
+--> Reporte técnico: VisualizacionDeDatosFinal.Rmd
